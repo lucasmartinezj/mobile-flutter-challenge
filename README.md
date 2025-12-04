@@ -46,15 +46,10 @@ Notes
 - The only additional dependency is `http` (already listed in `pubspec.yaml`).
 - Main application code is in `lib/main.dart` (single-file app as requested).
 
-Common issues
-- If `flutter` is not recognized, ensure the Flutter SDK is installed and `PATH` contains the Flutter bin directory.
-- If the Android emulator doesn't start, check Android SDK and AVD configuration in Android Studio.
-
-Next steps (optional)
-- I can add instructions to build an APK, run as a Windows desktop app, or add a CI build script—tell me which you prefer.
-
 ---
 
 Main file: `lib/main.dart`
 
-Enjoy!
+Lucas Martinez
+December, 2025
+
